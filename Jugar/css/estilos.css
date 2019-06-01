@@ -1,0 +1,16 @@
+@charset "utf-8";
+body {
+    background-image: url(../imagenes/sistemas.jpg);
+    background-size: 100%;
+}
+.space {
+    margin-top: 15%;
+}
+button {
+    width: 20%;
+}
+#Pie_Principal {
+    color: #E9F707;
+    clear: both;
+    margin-top: 80px;
+}
