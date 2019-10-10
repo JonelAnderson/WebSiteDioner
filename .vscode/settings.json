@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.find.autoFindInSelection": true,
+    "editor.wordWrap": "on",
+    "[html]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+      }
+}

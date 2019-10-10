@@ -13,15 +13,15 @@ $(function() {
         servicio = $('#servicio').offset().top,
         trabajo = $('#trabajo').offset().top,
         registro = $('#registro').offset().top,
-        ubicacion = $('#ubica').offset().top;
-    contacto = $('#contacto').offset().top;
+        ubicacion = $('#ubica').offset().top,
+        contacto = $('#contacto').offset().top;
     window.addEventListener('resize', function() {
         let equipo = $('#equipo').offset().top,
             servicio = $('#servicio').offset().top,
             trabajo = $('#trabajo').offset().top,
             registro = $('#registro').offset().top,
-            ubicacion = $('#ubica').offset().top;
-        contacto = $('#contacto').offset().top;
+            ubicacion = $('#ubica').offset().top,
+            contacto = $('#contacto').offset().top;
     });
     $('#enlace-inicio').on('click', function(e) {
         e.preventDefault();
